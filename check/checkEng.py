@@ -16,6 +16,8 @@ def check_eng():
             print('ENG NO SHIFT')
         elif i in alphabet_shift:
             print('ENG SHIFT')
+        elif i == ' ':
+            print(' ')
         else:
             print('OTHER LANGUAGES')
 
