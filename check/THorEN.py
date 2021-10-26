@@ -1,4 +1,4 @@
-"""Check English"""
+"""Check TH or ENG"""
 
 def check_eng(text):
     """Check English"""
